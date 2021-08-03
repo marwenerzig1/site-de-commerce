@@ -1,0 +1,71 @@
+
+nav{
+    width: auto;
+    height:auto;
+}
+#tt{
+    color: #1c779b;
+}
+#ss{
+    color:aliceblue;
+}
+#rr{
+    margin: 10px;
+}
+#bloc1{
+    width: 200px;
+    height: 220px ;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: antiquewhite;
+    background: url(msi.jpg);
+  background-repeat: no-repeat;
+  background-size: 200px 140px;
+  position: relative; 
+  left:1020px; 
+  top:-460px;
+   
+}
+#bloc2{
+    width: 200px;
+    height: 220px ;
+    border: 2px solid black;
+    padding: 25px;
+    background-color: antiquewhite;
+    background: url(asus.jpg);
+  background-repeat: no-repeat;
+  background-size: 200px 140px;
+  position: relative; 
+  left:1020px; 
+  top:-400px;
+   
+}
+#nn{
+    color:red ; 
+    position: relative; 
+    top : 90px; 
+}
+#vv{
+    position: relative; 
+    top : 105px; 
+}
+
+#cc{
+    position: relative; 
+    top : 80px; 
+}
+
+#xx{
+    position: relative;
+    top:-350px; 
+} 
+
+#ee{
+    color:red ; 
+}
+
+.form-group{
+    position: relative ;
+    left:50px; 
+} 
+
